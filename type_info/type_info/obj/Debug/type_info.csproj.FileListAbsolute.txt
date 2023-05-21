@@ -1,0 +1,11 @@
+D:\Учёба\Прога\1\type_info\type_info\obj\Debug\type_info.csproj.AssemblyReference.cache
+D:\Учёба\Прога\1\type_info\type_info\obj\Debug\type_info.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Прога\1\type_info\type_info\obj\Debug\type_info.csproj.CoreCompileInputs.cache
+D:\Учёба\Прога\1\type_info\type_info\bin\Debug\type_info.exe.config
+D:\Учёба\Прога\1\type_info\type_info\bin\Debug\type_info.exe
+D:\Учёба\Прога\1\type_info\type_info\bin\Debug\type_info.pdb
+D:\Учёба\Прога\1\type_info\type_info\bin\Debug\System.Numerics.Vectors.dll
+D:\Учёба\Прога\1\type_info\type_info\bin\Debug\System.Numerics.Vectors.xml
+D:\Учёба\Прога\1\type_info\type_info\obj\Debug\type_info.csproj.CopyComplete
+D:\Учёба\Прога\1\type_info\type_info\obj\Debug\type_info.exe
+D:\Учёба\Прога\1\type_info\type_info\obj\Debug\type_info.pdb
